@@ -8,9 +8,8 @@ You can view the live website here: [Karan Ali Kılıç](https://karankatur.gith
 
 ## Features
 
-- **About Me:** A brief introduction of myself and my professional background.
+- **About Me:** A brief introduction of myself and my background.
 - **Experience:** A section outlining my work experience.
 - **Education:** Information about my educational background.
-- **Skills:** A list of my technical and soft skills.
 - **Projects:** Details about projects I've worked on.
 - **Contact:** Information on how to reach me.
